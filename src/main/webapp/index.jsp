@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World from AWS I am learning Tomcat from Dominion IT.My time has come to shine!</h2>
+<h2>Welcome to Bank of America. This is your save banking system!</h2>
 </body>
 </html>
